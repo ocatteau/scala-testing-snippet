@@ -1,0 +1,40 @@
+bin/
+project/
+.cache
+.classpath
+.project
+.settings
+
+###################
+# Compiled source #
+###################
+target/
+*.class
+
+###################
+# IntelliJ        #
+###################
+*.ipr
+*.iws
+*.iml
+.idea
+
+###################
+# Logs            #
+###################
+*.log
+
+###################
+# OS generated files #
+###################
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+
+###################
+# Package Files #
+###################
+*.jar
+*.war
+*.ear
